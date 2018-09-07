@@ -1,0 +1,33 @@
+{
+  "name": "tjim-cervezas",
+  "version": "1.0.0",
+  "description": "Genera listado de cervezas y permite elección al azar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjimiestm/tjim-cervezas.git"
+  },
+  "keywords": [
+    "cervezas"
+  ],
+  "author": "tjim <tjim@iestiemposmodernos.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjimiestm/tjim-cervezas/issues"
+  },
+  "homepage": "https://github.com/tjimiestm/tjim-cervezas#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "dependencies": {
+    "unique-random-array": "^1.0.1"
+  }
+}
